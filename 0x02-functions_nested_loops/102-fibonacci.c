@@ -17,7 +17,7 @@ sum = fib1 + fib2;
 printf("%lu", sum);
 if (count < 50)
 {
-printf(",");
+printf(" ,");
 }
 else
 {
