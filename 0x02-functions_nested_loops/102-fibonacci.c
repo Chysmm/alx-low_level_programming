@@ -10,7 +10,7 @@ int main(void)
 {
 int count;
 unsigned long fib1 = 1, fib2 = 2, sum;
-printf("%lu, %lu, ", fib1, fib2);
+printf("%lu, %lu, ", fib1, fib2, sum);
 for (count = 3; count <= 50; count++)
 {
 sum = fib1 + fib2;
