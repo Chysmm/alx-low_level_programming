@@ -33,6 +33,7 @@ while (s[i] != '\0')
 i++;
 }
 return (i);
+}
 /**
  * errors - handles errors for main
  */
