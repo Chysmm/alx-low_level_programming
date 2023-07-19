@@ -53,4 +53,3 @@ int main(void)
     printf("%d\n", index);
     return (0);
 }
-julien@ubuntu:~/0x0e. Function pointers$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-int_index
