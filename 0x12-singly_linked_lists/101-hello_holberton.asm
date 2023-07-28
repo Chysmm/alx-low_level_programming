@@ -1,7 +1,4 @@
-asm
-
-
-        global   main
+  global   main
 
           extern    printf
 
@@ -18,5 +15,6 @@ main:
           ret
 
 format: db `Hello, Holberton\n`,0
+
 
 
