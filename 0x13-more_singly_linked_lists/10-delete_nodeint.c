@@ -4,7 +4,7 @@
   * @head: pointer to the first element of a linked list
   * @index: index of a new node to delete
   *
-  * Return 1(success), -1(fail)
+  * Return: 1(Success), or -1(Fail)
   */
 int delete_nodeint_at_index(listint_t **head, unsigned int index)
 {
