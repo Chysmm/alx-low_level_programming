@@ -4,7 +4,7 @@
  * @head: acts as a pointer to the first node
  * @n: the data to be inserted in the new node
  *
- * return: pointer to a new node or null if it fails
+ * Return: pointer to a new node or null if it fails
 */
 listint_t *add_nodeint(listint_t **head, const int n)
 {
