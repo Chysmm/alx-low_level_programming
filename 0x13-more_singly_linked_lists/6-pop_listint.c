@@ -3,10 +3,8 @@
   *pop_listint - deletes the head node of a linked list
   * @head: acts as pointer to the first element in the linked list
   *
-  * Return: the data that was deleted
+  * Return: the data inside the element that was deleted
   */
-int pop_listint(listint_t **head)
-{
 int pop_listint(listint_t **head)
 {
 listint_t *temp;
